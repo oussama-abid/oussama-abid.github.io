@@ -1150,6 +1150,8 @@ a:hover {
   border-radius: 30px;
   position: relative;
   overflow: hidden;
+  
+  
 }
 
 .hcoc-card::before {
@@ -1173,8 +1175,10 @@ a:hover {
 
 @media (min-width: 768px) {
   .hcoc-card {
-    background-image: url(https://cdn.smmspot.net/cloutsy/assets/img/home/home-1.svg);
     border-radius: 52px;
+    background-image: url('../img/tt.png');
+    height: 500px;
+
   }
 
   .hcoc-card .hcoc-body {
@@ -1185,6 +1189,8 @@ a:hover {
 @media (min-width: 992px) {
   .hcoc-card .hcoc-body {
     padding: 60px 50px 310px;
+    background-image: url('../img/tt.png');
+    height: 500px;
   }
 }
 
@@ -1223,6 +1229,7 @@ a:hover {
   font-size: 35px;
   line-height: 40px;
   letter-spacing: -0.04em;
+  text-align: center;
 }
 
 .home-rise-section {
