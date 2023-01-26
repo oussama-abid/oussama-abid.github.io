@@ -1523,11 +1523,11 @@ a:hover {
 padding: 8px;
   }
   .imagepay .aaa{
-    width: 150px;
+    width: 100px;
     
   }
   .test1{
-    font-size: 13px;
+    font-size: 9px;
   }
   @media (min-width: 992px) {
     .imagepay .aaa{
