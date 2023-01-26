@@ -1522,6 +1522,21 @@ a:hover {
     color: white;
 padding: 8px;
   }
+  .imagepay .aaa{
+    width: 150px;
+    
+  }
+  .test1{
+    font-size: 13px;
+  }
+  @media (min-width: 992px) {
+    .imagepay .aaa{
+      width: 300px;
+    }
+    .test1{
+      font-size: 30px;
+    }
+  }
 @media (min-width: 992px) {
   .tab_style2 .tabbar nav div.nav-tabs .nav-link {
    
