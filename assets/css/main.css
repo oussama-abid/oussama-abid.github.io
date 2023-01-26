@@ -1510,8 +1510,8 @@ a:hover {
   float: right;
 }
 .tab_style2 .tabbar nav div.nav-tabs .nav-link {
-  width: 70px;
-    font-size: 10px;
+  width: 40px;
+    font-size: 8px;
     text-align: center;
     height: 55px;
     background-color: #303a52;
@@ -1520,7 +1520,8 @@ a:hover {
     border-top-right-radius: 9px;
     margin-right: 12px;
     color: white;
-}
+padding: 8px;
+  }
 @media (min-width: 992px) {
   .tab_style2 .tabbar nav div.nav-tabs .nav-link {
    
